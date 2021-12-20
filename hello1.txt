@@ -1,1 +1,3 @@
-Hello there it's a text file
+Hello There it's a text file
+
+hello there this is a second line
